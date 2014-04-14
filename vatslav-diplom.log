@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  14 APR 2014 08:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  14 APR 2014 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -192,11 +192,36 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 t
-     his is text
+l.3 \section
+            {Введение}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \section{Введение}
+                              
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 ! LaTeX Error: \begin{document} ended by \end{chapter1}.
 
@@ -204,7 +229,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 \end{chapter1}
+l.6 \end{chapter1}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -283,31 +308,26 @@ Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-)
-Overfull \hbox (321.34094pt too wide) in paragraph at lines 3--7
-[]\T2A/cmr/m/n/10 this is text                                                 
-                                                                               
-                                                                               
-                                                                  [][][][] 
- []
-
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./vatslav-diplom.aux) ) 
 Here is how much of TeX's memory you used:
- 3044 strings out of 494518
- 39839 string characters out of 6173752
- 102207 words of memory out of 5000000
- 6210 multiletter control sequences out of 15000+600000
- 4437 words of font info for 15 fonts, out of 8000000 for 9000
+ 3885 strings out of 494518
+ 49057 string characters out of 6173752
+ 110533 words of memory out of 5000000
+ 6993 multiletter control sequences out of 15000+600000
+ 13272 words of font info for 40 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,4n,28p,370b,133s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,28p,686b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
  <
-/tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk>
-Output written on vatslav-diplom.pdf (1 page, 3928 bytes).
+/tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/l
+h-t2a/larm0600.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/
+texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a
+/labx1440.600pk>
+Output written on vatslav-diplom.pdf (1 page, 26429 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
