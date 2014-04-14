@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  14 APR 2014 10:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  14 APR 2014 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,37 +328,50 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Overfull \hbox (0.61005pt too wide) in paragraph at lines 41--42
+\T2A/cmr/m/n/10 вен-ных дан-ных и ме-то-дов ав-то-ма-ти-че-ско-го ана-ли-за поз
+-во-л€-ют Њвы-чис-литьњ
+ []
+
+
 ! LaTeX Error: \begin{document} ended by \end{chapter1}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \end{chapter1}
+l.44 \end{chapter1}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [2] (./vatslav-diplom.aux (./chapter1.aux)) ) 
+) [2] [3] (./vatslav-diplom.aux (./chapter1.aux)) ) 
 Here is how much of TeX's memory you used:
- 3914 strings out of 494518
- 49505 string characters out of 6173752
+ 4407 strings out of 494518
+ 54615 string characters out of 6173752
  107453 words of memory out of 5000000
- 7010 multiletter control sequences out of 15000+600000
+ 7500 multiletter control sequences out of 15000+600000
  14893 words of font info for 42 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  38i,8n,28p,846b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
- </tmp/texfonts/pk/ljfour/lh/lh-
-t2a/labx1200.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/te
-xfonts/pk/ljfour/lh/lh-t2a/larm0600.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/l
-arm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfont
-s/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (2 pages, 64809 bytes).
+ </tmp/texfonts/pk/ljfour/lh
+/lh-t2a/labx1200.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </tm
+p/texfonts/pk/ljfour/lh/lh-t2a/larm0600.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
+2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/tex
+fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb>
+Output written on vatslav-diplom.pdf (3 pages, 74707 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 246 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
