@@ -1,0 +1,20 @@
+\documentclass{report}
+\usepackage[utf8x]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{makeindx}
+\pagestyle{}
+\begin{document}
+\section{section one}
+\label{sec:cheh} Чехов: <<Краткость~--- сестра таланта.>> Это пример.
+\bibitem{cd} this is book
+\\
+\index{hello}
+\index{hello!Peter}
+\index{Sam@\textsl{Sam}}
+\index{Lin@\textbf{Lin}}
+\index{Jenny|textbf}
+\index{Joe|textit}
+\makeindex
+\printindex
+
+\end{document}

@@ -1,0 +1,8 @@
+\select@language {russian}
+\contentsline {part}{I\hspace {1em}oden!}{1}
+\contentsline {section}{\numberline {0.1}section one}{2}
+\contentsline {chapter}{\numberline {1}three}{3}
+\contentsline {section}{\numberline {1.1}section two}{3}
+\contentsline {subsection}{\numberline {1.1.1}two dot one}{3}
+\contentsline {section}{\numberline {.1}\IeC {\CYRN }\IeC {\cyra }\IeC {\cyrch }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyro }}{1}
+\contentsline {section}{\numberline {.2}\IeC {\CYRK }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrc }}{1}

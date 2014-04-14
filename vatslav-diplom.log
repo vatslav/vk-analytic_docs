@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  13 APR 2014 17:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  14 APR 2014 08:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,7 +23,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
+) (./preambula.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -102,7 +102,7 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
 Language: russian 2013/04/13 1.3a Russian support from the babel system
 Package babel Info: Making " an active character on input line 147.
-))
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
@@ -170,7 +170,21 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (./title.tex
+))
+(./chapter1.tex
+
+! LaTeX Error: Environment chapter1 undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{chapter1}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -178,53 +192,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 \begin{center}
-                  
+l.3 t
+     his is text
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 7--12
 
- []
-
-
-! LaTeX Error: \begin{titlepage} on input line 1 ended by \end{center}.
+! LaTeX Error: \begin{document} ended by \end{chapter1}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \end{center}
-                 
+l.4 \end{chapter1}
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-! LaTeX Error: \begin{document} ended by \end{titlepage}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 \end{titlepage}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.49 \end{titlepage}
-                    
-Things are pretty mixed up, but I think the worst is over.
 
 )
 
@@ -234,20 +218,20 @@ LaTeX Warning: Unused global option(s):
 (./vatslav-diplom.aux)
 \openout1 = `vatslav-diplom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -299,23 +283,31 @@ Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-) [2]
-(./vatslav-diplom.aux) ) 
+)
+Overfull \hbox (321.34094pt too wide) in paragraph at lines 3--7
+[]\T2A/cmr/m/n/10 this is text                                                 
+                                                                               
+                                                                               
+                                                                  [][][][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./vatslav-diplom.aux) ) 
 Here is how much of TeX's memory you used:
- 3794 strings out of 494518
- 47842 string characters out of 6173752
- 108327 words of memory out of 5000000
- 6955 multiletter control sequences out of 15000+600000
- 6818 words of font info for 18 fonts, out of 8000000 for 9000
+ 3044 strings out of 494518
+ 39839 string characters out of 6173752
+ 102207 words of memory out of 5000000
+ 6210 multiletter control sequences out of 15000+600000
+ 4437 words of font info for 15 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,4n,26p,349b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
- </tmp/texfonts/pk/ljfour/lh/lh-t2a/laxc1000.600pk> </t
-mp/texfonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-
-t2a/larm1000.600pk>
-Output written on vatslav-diplom.pdf (2 pages, 30452 bytes).
+ 38i,4n,28p,370b,133s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <
+/tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk>
+Output written on vatslav-diplom.pdf (1 page, 3928 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 20 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  5 words of extra memory for PDF output out of 10000 (max. 10000000)
 
