@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {0.1}Введение}{2}
+\contentsline {section}{\numberline {0.2}Основной функционал приложения}{2}
+\contentsline {subsection}{\numberline {0.2.1}Цели и задачи дипломного проекта}{2}
+\contentsline {section}{\numberline {0.3}Анализ существующих решений}{2}
+\contentsline {subsection}{\numberline {0.3.1}Отдельные web-приложения для поиска людей}{3}
+\contentsline {subsection}{\numberline {0.3.2}http://people.yandex.ru}{3}
+\contentsline {subsection}{\numberline {0.3.3}http://topsy.com}{3}
+\contentsline {subsection}{\numberline {0.3.4}http://qwant.com}{3}
+\contentsline {subsection}{\numberline {0.3.5}http://spokeo.com}{3}
+\contentsline {subsection}{\numberline {0.3.6}Сервисы анализа сообществ и трендов в социальных сетях}{3}
+\contentsline {subsubsection}{TweetStats}{3}
+\contentsline {subsubsection}{Twinfluence}{3}
+\contentsline {subsubsection}{TweetEffect}{3}
+\contentsline {subsubsection}{Twitteranalyzer}{3}
