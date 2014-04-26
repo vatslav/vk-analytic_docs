@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 14:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,105 +415,115 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 54.
 
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Overfull \hbox (4.50412pt too wide) in paragraph at lines 61--62
+[]\T2A/cmr/m/n/10 TweetEffect.com ^^U от-ра-жал из-ме-не-ние ко-ли-че-ства фо-л
+о-ве-ров по-сле каж-
+ []
+
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 64.
+ [3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 64.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 [][][]\T2A/cmr/m/n/8 8 Great Social Networking CMS ([]$\T2A/cmtt/m/n/8 http : /
  / www . cmscritic . com /
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
-[3]
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 73.
- (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
+(babel)             in language  on input line 83.
+[4]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 85.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 85.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 84.
- [4]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 94.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 94.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 96.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 96.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 100.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 91.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 98.
 [5]
-Overfull \hbox (10.5582pt too wide) in paragraph at lines 115--128
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 106.
+
+Overfull \hbox (10.5582pt too wide) in paragraph at lines 114--127
 \T2A/cmr/m/n/10 Klout - ста-ти-сти-ка ак-ка-ун-та, ди-на-ми-ка ро-ста, его твит
 -сила; Tweetmetrics
  []
 
 
-Overfull \hbox (0.6995pt too wide) in paragraph at lines 115--128
+Overfull \hbox (0.6995pt too wide) in paragraph at lines 114--127
 \T2A/cmr/m/n/10 сбо-ра ста-ти-сти-ки в ин-тер-не-те, вклю-чая Твит-тер; Trendis
 tic - да-ет пред-
  []
 
 
-Overfull \hbox (15.00156pt too wide) in paragraph at lines 115--128
+Overfull \hbox (15.00156pt too wide) in paragraph at lines 114--127
 \T2A/cmr/m/n/10 вклю-ча-ю-щее в се-бя и ин-стру-мен-ты для ана-ли-за Твит-те-ра
 ; sleepingtime.org
  []
 
 
-Overfull \hbox (28.52603pt too wide) in paragraph at lines 115--128
+Overfull \hbox (28.52603pt too wide) in paragraph at lines 114--127
 \T2A/cmr/m/n/10 ^^V сайт ана-ли-зи-ру-ет вре-мя Ва-ше-го сна по твит-там. http:
 //www.tweetping.net/ 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 127.
 [6]
 
 ! LaTeX Error: \begin{document} ended by \end{chap1}.
@@ -522,7 +532,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 \end{chap1}
+l.130 \end{chap1}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -544,17 +554,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 9.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9.
 Package rerunfilecheck Info: File `vatslav-diplom.out' has not changed.
-(rerunfilecheck)             Checksum: 7FAD76ECF556E0D1066B0A8D9B36A104;2823.
+(rerunfilecheck)             Checksum: 96EB7A767343934FDB78173C012B09EE;2930.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9.
  ) 
 Here is how much of TeX's memory you used:
  10500 strings out of 494518
- 143007 string characters out of 6173752
+ 143021 string characters out of 6173752
  201034 words of memory out of 5000000
- 13565 multiletter control sequences out of 15000+600000
+ 13566 multiletter control sequences out of 15000+600000
  13354 words of font info for 31 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 36i,10n,34p,1928b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,34p,1421b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -565,10 +575,10 @@ p/texfonts/pk/ljfour/lh/lh-t2a/latt0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
 fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
 rm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (7 pages, 144750 bytes).
+Output written on vatslav-diplom.pdf (7 pages, 143991 bytes).
 PDF statistics:
- 578 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
