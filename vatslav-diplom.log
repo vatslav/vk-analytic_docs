@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 04:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 05:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,61 +254,47 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8x'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+ [2]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.53 ...ikipedia.org/wiki/Social_media_marketing)}
                                                   
-l.42 ...СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёС… РЅР°СѓС‡РЅС‹С…^^H
-                                                   РїРѕРґС…РѕРґРѕРІ РґР»СЏ С...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+! Extra }, or forgotten $.
+\@footnotetext ...rut \strutbox }\color@endgroup }
+                                                  
+l.53 ...ikipedia.org/wiki/Social_media_marketing)}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 \subsection
+                {СЃРѕС†РёР°Р»СЊРЅС‹Рµ Р°РіСЂРёРіР°С‚РѕСЂС‹}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[][]\T2A/cmr/m/n/8 20 Ways To Aggregate Your Social Networking Profiles
  []
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (0.61005pt too wide) in paragraph at lines 53--54
-\T2A/cmr/m/n/10 вен-ных дан-ных и ме-то-дов ав-то-ма-ти-че-ско-го ана-ли-за поз
--во-ля-ют ѕвы-чис-литьї
- []
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
- []
-
-[4]
-Overfull \hbox (10.5582pt too wide) in paragraph at lines 88--101
-\T2A/cmr/m/n/10 Klout - ста-ти-сти-ка ак-ка-ун-та, ди-на-ми-ка ро-ста, его твит
--сила; Tweetmetrics
- []
-
-
-Overfull \hbox (0.6995pt too wide) in paragraph at lines 88--101
-\T2A/cmr/m/n/10 сбо-ра ста-ти-сти-ки в ин-тер-не-те, вклю-чая Твит-тер; Trendis
-tic - да-ет пред-
- []
-
-
-Overfull \hbox (15.00156pt too wide) in paragraph at lines 88--101
-\T2A/cmr/m/n/10 вклю-ча-ю-щее в се-бя и ин-стру-мен-ты для ана-ли-за Твит-те-ра
-; sleepingtime.org
- []
-
-
-Overfull \hbox (28.52603pt too wide) in paragraph at lines 88--101
-\T2A/cmr/m/n/10 ^^V сайт ана-ли-зи-ру-ет вре-мя Ва-ше-го сна по твит-там. http:
-//www.tweetping.net/ 
  []
 
 
@@ -318,32 +304,50 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 \end{chap1}
+l.118 \end{chap1}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [5] (./vatslav-diplom.aux (./chap1.aux)) ) 
+! Missing } inserted.
+<inserted text> 
+                }
+l.118 \end{chap1}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) [3] [4
+
+] [5
+
+] (./vatslav-diplom.aux (./chap1.aux)) ) 
 Here is how much of TeX's memory you used:
- 3781 strings out of 494518
- 47662 string characters out of 6173752
- 96547 words of memory out of 5000000
- 6909 multiletter control sequences out of 15000+600000
+ 3783 strings out of 494518
+ 47691 string characters out of 6173752
+ 111950 words of memory out of 5000000
+ 6910 multiletter control sequences out of 15000+600000
  12734 words of font info for 29 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,8n,25p,1517b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
- </tmp/texfonts/pk/ljfour/lh/lh-t2a
-/labx1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </tmp/texfo
-nts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm
-0600.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/p
-k/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.
-600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-
-Output written on vatslav-diplom.pdf (5 pages, 115733 bytes).
+ 38i,10n,25p,1928b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </tmp/texfonts/pk/ljfour/lh/lh-t2a/lab
+x1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </tmp/texfonts/
+pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0600
+.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/lj
+four/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600p
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on vatslav-diplom.pdf (5 pages, 153585 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 413 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
