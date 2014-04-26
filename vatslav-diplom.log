@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 15:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,10 +6,19 @@ entering extended mode
 (./vatslav-diplom.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 9 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -22,7 +31,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
+\bibindent=\dimen103
 ) (./preambula.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -45,8 +54,8 @@ Package graphics Info: Driver file: dvips.def on input line 91.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
 File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
@@ -91,7 +100,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count89
-\U@D=\dimen105
+\U@D=\dimen106
 )
 \l@british = a dialect from \language\l@english 
 \l@UKenglish = a dialect from \language\l@english 
@@ -160,7 +169,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen106
+\@linkdim=\dimen107
 \Hy@linkcounter=\count90
 \Hy@pagecounter=\count91
 
@@ -191,10 +200,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen107
+\XeTeXLinkMargin=\dimen108
 \Fld@menulength=\count94
-\Field@Width=\dimen108
-\Fld@charsize=\dimen109
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -244,29 +253,29 @@ Try typing  <return>  to proceed.
 )
 
 LaTeX Warning: Unused global option(s):
-    [article,14pt].
+    [article].
 
 (./vatslav-diplom.aux (./chap1.aux))
 \openout1 = `vatslav-diplom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -281,7 +290,7 @@ Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 6.
+Package hyperref Info: Link coloring OFF on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -291,9 +300,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count100
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
-LaTeX Info: Redefining \nameref on input line 6.
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
 
 (./vatslav-diplom.out) (./vatslav-diplom.out)
 \@outlinefile=\write3
@@ -322,16 +331,11 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 6.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 7.
-<<omx.cmap>>
-LaTeX Font Info:    External font `cmex10' loaded for size
+LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
@@ -342,15 +346,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[][][]\T2A/cmr/m/n/8 Ёдвард —но-уден ([]$\T2A/cmtt/m/n/8 http : / / ru . wikipe
-dia . org / wiki / \T2A \ CYRS \ T2A \ cyrn \ T2A \ cyro \
+Underfull \hbox (badness 2409) in paragraph at lines 10--10
+[][][]\T2A/cmr/m/n/10 Ёдвард —но-уден ([]$\T2A/cmtt/m/n/10 http : / / ru . wiki
+pedia . org / wiki / \T2A \ CYRS \ T2A \ cyrn \ T2A \ cyro \ T2A \
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
-\T2A/cmtt/m/n/8 T2A \ cyru \ T2A \ cyrd \ T2A \ cyre \ T2A \ cyrn ,[] _ \ T2A \
- CYREREV \ T2A \ cyrd \ T2A \ cyrv \ T2A \ cyra \ T2A \
+\T2A/cmtt/m/n/10 cyru \ T2A \ cyrd \ T2A \ cyre \ T2A \ cyrn ,[] _ \ T2A \ CYRE
+REV \ T2A \ cyrd \ T2A \ cyrv \ T2A \ cyra \ T2A \
  []
 
 
@@ -359,18 +363,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
  []
 
 
+Underfull \hbox (badness 1043) in paragraph at lines 17--17
+[][][]\T2A/cmr/m/n/10 Who will retweet this?: Automatically Identifying and Eng
+aging Strangers on Twitter
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 13--19
 
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 19.
 [1
 
 
@@ -383,73 +393,110 @@ LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 47.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 47.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 47.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 29.
  [2]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 50.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+Overfull \hbox (5.60712pt too wide) in paragraph at lines 35--36
+[]\T2A/cmr/m/n/14.4 ќценка уров-н€ кон-фи-ден-ци-аль-но-сти за-кры-тых пер-со-н
+аль-ных дан-
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 45.
+[3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 52.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 52.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 59.
+ [4] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (4.50412pt too wide) in paragraph at lines 61--62
-[]\T2A/cmr/m/n/10 TweetEffect.com ^^U от-ра-жал из-ме-не-ние ко-ли-че-ства фо-л
-о-ве-ров по-сле каж-
+Overfull \hbox (9.97832pt too wide) in paragraph at lines 68--69
+\T2A/cmr/m/n/14.4 - ќдин из са-мых на-деж-ных и до-ступ-ных ин-стру-мен-тов, Ho
+otSuite
+ []
+
+
+Overfull \hbox (24.25978pt too wide) in paragraph at lines 68--69
+\T2A/cmr/m/n/14.4 по-сто-€н-но со-вер-шен-ству-ет свой ин-тер-фейс и воз-мож-но
+-сти. ќнлайн-
+ []
+
+
+Overfull \hbox (3.14224pt too wide) in paragraph at lines 68--69
+\T2A/cmr/m/n/14.4 Wordpress.com, MySpace и Foursquare. HootSuite об-ла-да-ет фу
+нк-
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 69.
+[5]
+Overfull \hbox (8.44273pt too wide) in paragraph at lines 76--78
+\T2A/cmr/m/n/14.4 - ќри-ги-наль-ный и по-пу-л€р-ный ин-стру-мент дл€ twitter, O
+riginally
+ []
+
+
+Overfull \hbox (24.2358pt too wide) in paragraph at lines 76--78
+\T2A/cmr/m/n/14.4 a popular tool for tweeters, Tweetdeck has evolved into a com
+prehensive
+ []
+
+
+Overfull \hbox (6.80748pt too wide) in paragraph at lines 76--78
+\T2A/cmr/m/n/14.4 other social media aggregators, Tweetdeck has a column-style 
+format
  []
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
- [3]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
-[][][]\T2A/cmr/m/n/8 8 Great Social Networking CMS ([]$\T2A/cmtt/m/n/8 http : /
- / www . cmscritic . com /
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 77.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 77.
-Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 83.
@@ -457,63 +504,76 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 83.
-[4]
+ [6]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 85.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 87.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 87.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 91.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 84.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 96.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 96.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 98.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 98.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 98.
-[5]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 106.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 106.
-
-Overfull \hbox (10.5582pt too wide) in paragraph at lines 114--127
-\T2A/cmr/m/n/10 Klout - ста-ти-сти-ка ак-ка-ун-та, ди-на-ми-ка ро-ста, его твит
--сила; Tweetmetrics
+Underfull \hbox (badness 3219) in paragraph at lines 85--85
+[][][]\T2A/cmr/m/n/10 Top 15 Most Popular Social Networking Sites ([]$\T2A/cmtt
+/m/n/10 http : / / www . ebizmba . com / articles /
  []
 
 
-Overfull \hbox (0.6995pt too wide) in paragraph at lines 114--127
-\T2A/cmr/m/n/10 сбо-ра ста-ти-сти-ки в ин-тер-не-те, вклю-ча€ “вит-тер; Trendis
-tic - да-ет пред-
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[][][]\T2A/cmr/m/n/10 8 Great Social Networking CMS ([]$\T2A/cmtt/m/n/10 http :
+ / / www . cmscritic . com /
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+[7]
+Overfull \hbox (6.56471pt too wide) in paragraph at lines 108--109
+\T2A/cmr/m/n/14.4 фек-тив-ным мо-жет быть ав-то-ма-ти-зи-ро-ван-ное ис-поль-зо-
+ва-ние раз-
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 109.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 109.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 109.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 109.
+[8]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 111.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
  []
 
 
-Overfull \hbox (15.00156pt too wide) in paragraph at lines 114--127
-\T2A/cmr/m/n/10 вклю-ча-ю-щее в се-б€ и ин-стру-мен-ты дл€ ана-ли-за “вит-те-ра
-; sleepingtime.org
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 118.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 118.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 118.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 118.
+ [9]
+Overfull \hbox (1.96623pt too wide) in paragraph at lines 121--122
+[]\T2A/cmr/m/n/14.4 ѕоиск наи-бо-лее вли-€-тель-ных поль-зо-ва-те-лей Twitter п
+о лю-
  []
 
 
-Overfull \hbox (28.52603pt too wide) in paragraph at lines 114--127
-\T2A/cmr/m/n/10 ^^V сайт ана-ли-зи-ру-ет вре-м€ ¬а-ше-го сна по твит-там. http:
-//www.tweetping.net/ 
+Overfull \hbox (2.72153pt too wide) in paragraph at lines 123--124
+\T2A/cmr/m/n/14.4 ке, €зы-ку или гео-гра-фии. ѕоль-зо-ва-тель мо-жет узнать, на
+и-
  []
 
 Package babel Info: Redefining russian shorthand "|
@@ -524,7 +584,30 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 127.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 127.
-[6]
+[10]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 135.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 135.
+ [11]
+Overfull \hbox (17.20053pt too wide) in paragraph at lines 149--162
+\T2A/cmr/m/n/14.4 ли-зи-ру-ет вре-м€ ¬а-ше-го сна по твит-там. http://www.tweet
+ping.net/ 
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 162.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 162.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 162.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 162.
+[12]
 
 ! LaTeX Error: \begin{document} ended by \end{chap1}.
 
@@ -532,7 +615,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 \end{chap1}
+l.165 \end{chap1}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -540,45 +623,45 @@ or  <return>  to continue without it.
 
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 7.
- [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9.
+(babel)             in language  on input line 8.
+ [13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 10.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 10.
  (./vatslav-diplom.aux (./chap1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 10.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 10.
 Package rerunfilecheck Info: File `vatslav-diplom.out' has not changed.
-(rerunfilecheck)             Checksum: 96EB7A767343934FDB78173C012B09EE;2930.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9.
+(rerunfilecheck)             Checksum: 98D2BC93D046644D9529D162B179ADFC;2136.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 10.
  ) 
 Here is how much of TeX's memory you used:
- 10500 strings out of 494518
- 143021 string characters out of 6173752
- 201034 words of memory out of 5000000
- 13566 multiletter control sequences out of 15000+600000
- 13354 words of font info for 31 fonts, out of 8000000 for 9000
+ 10527 strings out of 494518
+ 145232 string characters out of 6173752
+ 201156 words of memory out of 5000000
+ 13585 multiletter control sequences out of 15000+600000
+ 12105 words of font info for 29 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  36i,10n,34p,1421b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
- </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </tmp/texfonts/pk/ljfour/lh
-/lh-t2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </tm
-p/texfonts/pk/ljfour/lh/lh-t2a/latt0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
-2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0600.600pk> </tmp/tex
-fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
-rm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (7 pages, 143991 bytes).
+ </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt1440.600pk> </tmp/texfonts/pk/ljfour/lh
+/lh-t2a/labx1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </tm
+p/texfonts/pk/ljfour/lh/lh-t2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
+2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/tex
+fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
+bx2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on vatslav-diplom.pdf (13 pages, 167073 bytes).
 PDF statistics:
- 576 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 609 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
