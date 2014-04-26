@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 17:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,25 +232,63 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
+! Undefined control sequence.
+<recently read> \sepackage 
+                           
+l.10 \sepackage
+               [colorlinks,filecolor=black,citecolor=black,colorlinks=true]{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: Option clash for package hyperref.
+
+! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 
-     
-The package hyperref has already been loaded with options:
-  [unicode]
-There has now been an attempt to load it with options
-  [colorlinks,filecolor=black,citecolor=black,colorlinks=true]
-Adding the global options:
-  unicode,colorlinks,filecolor=black,citecolor=black,colorlinks=true
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
+l.10 \sepackage[
+                colorlinks,filecolor=black,citecolor=black,colorlinks=true]{...
 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip44
+\UL@hook=\toks20
+\UL@height=\dimen111
+\UL@pe=\count100
+\UL@pixel=\dimen112
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen113
 )
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count101
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
 
 LaTeX Warning: Unused global option(s):
     [article].
@@ -283,13 +321,21 @@ Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+34.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
-Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-\AtBeginShipoutBox=\box26
+\AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -298,7 +344,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count100
+\c@section@level=\count102
 )
 LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
@@ -308,6 +354,32 @@ LaTeX Info: Redefining \nameref on input line 7.
 \@outlinefile=\write3
 \openout3 = `vatslav-diplom.out'.
 
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen115
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks22
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 8.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `chap1.aux'.
 
  (./chap1.tex
@@ -324,314 +396,16 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-(./vatslav-diplom.toc
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.2 \contentsline
-                  {section}{\numberline {0.2}РћСЃРЅРѕРІРЅРѕР№ С„СѓРЅРєС†РёРѕ...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.2 \contentsline
-                  {section}{\numberline {0.2}РћСЃРЅРѕРІРЅРѕР№ С„СѓРЅРєС†РёРѕ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.2 \contentsline
-                  {section}{\numberline {0.2}РћСЃРЅРѕРІРЅРѕР№ С„СѓРЅРєС†РёРѕ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.2 \contentsline
-                  {section}{\numberline {0.2}РћСЃРЅРѕРІРЅРѕР№ С„СѓРЅРєС†РёРѕ...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 2.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.4 \contentsline
-                  {section}{\numberline {0.3}РђРЅР°Р»РёР· СЃСѓС‰РµСЃС‚РІСѓСЋ...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.4 \contentsline
-                  {section}{\numberline {0.3}РђРЅР°Р»РёР· СЃСѓС‰РµСЃС‚РІСѓСЋ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-Overfull \hbox (2.037pt too wide) in paragraph at lines 2--4
-[]\T2A/cmr/m/n/14.4 section[]Основной функ-ци-о-нал при-ло-же-
- []
-
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.4 \contentsline
-                  {section}{\numberline {0.3}РђРЅР°Р»РёР· СЃСѓС‰РµСЃС‚РІСѓСЋ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.4 \contentsline
-                  {section}{\numberline {0.3}РђРЅР°Р»РёР· СЃСѓС‰РµСЃС‚РІСѓСЋ...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.6 \contentsline
-                  {subsection}{\numberline {0.3.2}http://people.yandex.ru}{3}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.6 \contentsline
-                  {subsection}{\numberline {0.3.2}http://people.yandex.ru}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-Overfull \hbox (6.22665pt too wide) in paragraph at lines 4--6
-[]\T2A/cmr/m/n/14.4 section[]Анализ су-ще-ству-ю-щих ре-ше-ний2 
- []
-
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.6 \contentsline
-                  {subsection}{\numberline {0.3.2}http://people.yandex.ru}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.6 \contentsline
-                  {subsection}{\numberline {0.3.2}http://people.yandex.ru}{3}
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.8 \contentsline
-                  {subsection}{\numberline {0.3.4}http://qwant.com}{3}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.8 \contentsline
-                  {subsection}{\numberline {0.3.4}http://qwant.com}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.8 \contentsline
-                  {subsection}{\numberline {0.3.4}http://qwant.com}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.8 \contentsline
-                  {subsection}{\numberline {0.3.4}http://qwant.com}{3}
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.10 \contentsline
-                   {subsection}{\numberline {0.3.6}РЎРµСЂРІРёСЃС‹ Р°РЅР°Р»Рё...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.10 \contentsline
-                   {subsection}{\numberline {0.3.6}РЎРµСЂРІРёСЃС‹ Р°РЅР°Р»Рё...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.10 \contentsline
-                   {subsection}{\numberline {0.3.6}РЎРµСЂРІРёСЃС‹ Р°РЅР°Р»Рё...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.10 \contentsline
-                   {subsection}{\numberline {0.3.6}РЎРµСЂРІРёСЃС‹ Р°РЅР°Р»Рё...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.12 \contentsline
-                   {subsubsection}{Twinfluence}{3}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.12 \contentsline
-                   {subsubsection}{Twinfluence}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.14 \contentsline
-                   {subsubsection}{Twitteranalyzer}{3}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.14 \contentsline
-                   {subsubsection}{Twitteranalyzer}{3}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 )
-\tf@toc=\write4
-\openout4 = `vatslav-diplom.toc'.
-
-
-Overfull \hbox (110.89064pt too wide) in paragraph at lines 10--5
-\T2A/cmr/m/n/14.4 и трен-дов в со-ци-аль-ных се-тях3 subsubsectionTwinfluence3 
-subsubsectionTwitteranalyzer3 
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 5.
-[1
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 6.
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 7.
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
@@ -679,7 +453,9 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 19.
-[2]
+[2
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
@@ -889,20 +665,49 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 135.
  [12]
-Overfull \hbox (17.20053pt too wide) in paragraph at lines 149--162
-\T2A/cmr/m/n/14.4 ли-зи-ру-ет вре-мя Ва-ше-го сна по твит-там. http://www.tweet
-ping.net/ 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 157.
+ [13]
+Overfull \hbox (23.30008pt too wide) in paragraph at lines 157--170
+\T2A/cmr/m/n/14.4 но про-ана-ли-зи-ро-вать лю-дей, на-при-мер шоу-бизнес, it-сп
+ециалисты,
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 172.
+
+Overfull \hbox (43.70557pt too wide) in paragraph at lines 176--176
+[]\T2A/cmr/m/n/14.4 Несогласованное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+\T2A/cmr/m/n/14.4 пред-ло-
+ []
+
+
+Overfull \hbox (31.1757pt too wide) in paragraph at lines 177--178
+[]\T2A/cmr/m/n/14.4 достаточно ин-те-рес-ным ока-зал-ся фун-ки-цо-нал сай-та sl
+eepingtime.org,
+ []
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 162.
-[13]
+(babel)             in language  on input line 181.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 181.
+[14]
 
 ! LaTeX Error: \begin{document} ended by \end{chap1}.
 
@@ -910,13 +715,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 \end{chap1}
+l.189 \end{chap1}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 )
+Overfull \hbox (17.07587pt too wide) in paragraph at lines 187--8
+[]\T2A/cmr/m/n/14.4 достаточно ин-те-рес-ным ока-зал-ся фун-ки-цо-нал сай-та sl
+eepingtime.org,
+ []
+
+
+Overfull \hbox (15.08356pt too wide) in paragraph at lines 187--8
+\T2A/cmr/m/n/14.4 рое поль-зо-ва-тель ак-ти-ве-но пи-шет по-сты в со-ци-аль-ной
+ се-ти б)вычислить
+ []
+
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "~
@@ -925,41 +741,38 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 8.
- [14]
+[15]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 10.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 10.
  (./vatslav-diplom.aux (./chap1.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 10.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 10.
 Package rerunfilecheck Info: File `vatslav-diplom.out' has not changed.
-(rerunfilecheck)             Checksum: 98D2BC93D046644D9529D162B179ADFC;2136.
+(rerunfilecheck)             Checksum: AC1CD5B5E2AB88B5AFD46428EFBB4BC2;2245.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 10.
  ) 
 Here is how much of TeX's memory you used:
- 10539 strings out of 494518
- 145384 string characters out of 6173752
- 201156 words of memory out of 5000000
- 13587 multiletter control sequences out of 15000+600000
- 13731 words of font info for 31 fonts, out of 8000000 for 9000
+ 11576 strings out of 494518
+ 158415 string characters out of 6173752
+ 220522 words of memory out of 5000000
+ 14605 multiletter control sequences out of 15000+600000
+ 12211 words of font info for 30 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 36i,10n,34p,1421b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,37p,1421b,651s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
-
-pdfTeX warning (dest): name{\\par\040} has been referenced but does not exist, 
-replaced by a fixed one
 
  </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt1440.600pk> </tmp/texfonts/pk/ljfour/lh
 /lh-t2a/labx1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </tm
 p/texfonts/pk/ljfour/lh/lh-t2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
 2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/tex
 fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
-rm1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx3583.600pk></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (14 pages, 172280 bytes).
+rm1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on vatslav-diplom.pdf (15 pages, 171416 bytes).
 PDF statistics:
- 633 PDF objects out of 1000 (max. 8388607)
+ 632 PDF objects out of 1000 (max. 8388607)
  197 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
