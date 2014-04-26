@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 05:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 05:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,7 +81,7 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoks=\toks17
 \uc@combtoksb=\toks18
 \uc@temptokena=\toks19
-))
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2013/05/16 v3.9f The Babel package
 
@@ -103,6 +103,145 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 Language: russian 2013/04/13 1.3a Russian support from the babel system
 Package babel Info: Making " an active character on input line 147.
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count92
+Package hyperref Info: Option `unicode' set `true' on input line 3411.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count94
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+\c@bookmark@seq@number=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 
+     
+The package hyperref has already been loaded with options:
+  [unicode]
+There has now been an attempt to load it with options
+  [colorlinks,filecolor=black,citecolor=black,colorlinks=true]
+Adding the global options:
+  unicode,colorlinks,filecolor=black,citecolor=black,colorlinks=true
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+)
 
 LaTeX Warning: Unused global option(s):
     [article,14pt].
@@ -124,58 +263,42 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+)
 
 Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
+\AtBeginShipoutBox=\box26
+Package hyperref Info: Link coloring OFF on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count100
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+
+(./vatslav-diplom.out) (./vatslav-diplom.out)
+\@outlinefile=\write3
+\openout3 = `vatslav-diplom.out'.
+
 \openout2 = `chap1.aux'.
 
  (./chap1.tex
@@ -194,7 +317,12 @@ or  <return>  to continue without it.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 6.
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 7.
 <<omx.cmap>>
@@ -204,20 +332,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[][]\T2A/cmr/m/n/8 Тайна свя-зи, элек-трон-ная поч-та и рос-сий-ские су-ды
- []
-
-
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 10--10
-[][]\T2A/cmr/m/n/8 Правительство США пре-да-ло ин-тер-нет. Нам на-до вер-нуть е
-го в свои ру-ки
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[][][]\T2A/cmr/m/n/8 Эдвард Сно-уден ([]$\T2A/cmtt/m/n/8 http : / / ru . wikipe
+dia . org / wiki / \T2A \ CYRS \ T2A \ cyrn \ T2A \ cyro \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T2A/cmtt/m/n/8 T2A \ cyru \ T2A \ cyrd \ T2A \ cyre \ T2A \ cyrn ,[] _ \ T2A \
+ CYREREV \ T2A \ cyrd \ T2A \ cyrv \ T2A \ cyra \ T2A \
  []
 
 
@@ -225,21 +358,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-
-Package ucs Warning: This text contains LRM/RLM/LRE/RLE characters.
-(ucs)                Note that these are ignored because of incomplete
-(ucs)                right-to-left capability. Try using LRO/RLO/PDF
-(ucs)                characters instead to ensure correct order.
-(ucs)                 on input line 17.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--19
 
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 22.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 22.
 [1
 
 
@@ -254,47 +385,125 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 47.
  [2]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.53 ...ikipedia.org/wiki/Social_media_marketing)}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\@footnotetext ...rut \strutbox }\color@endgroup }
-                                                  
-l.53 ...ikipedia.org/wiki/Social_media_marketing)}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.54 \subsection
-                {СЃРѕС†РёР°Р»СЊРЅС‹Рµ Р°РіСЂРёРіР°С‚РѕСЂС‹}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-[][]\T2A/cmr/m/n/8 20 Ways To Aggregate Your Social Networking Profiles
- []
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 52.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 52.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 59.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[][][]\T2A/cmr/m/n/8 8 Great Social Networking CMS ([]$\T2A/cmtt/m/n/8 http : /
+ / www . cmscritic . com /
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 64.
+[3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 71.
+ (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 73.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 73.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 75.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 75.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 77.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 77.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 79.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 79.
+ [4]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 81.
 
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 92.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 92.
+[5]
+Overfull \hbox (10.5582pt too wide) in paragraph at lines 102--115
+\T2A/cmr/m/n/10 Klout - ста-ти-сти-ка ак-ка-ун-та, ди-на-ми-ка ро-ста, его твит
+-сила; Tweetmetrics
+ []
+
+
+Overfull \hbox (0.6995pt too wide) in paragraph at lines 102--115
+\T2A/cmr/m/n/10 сбо-ра ста-ти-сти-ки в ин-тер-не-те, вклю-чая Твит-тер; Trendis
+tic - да-ет пред-
+ []
+
+
+Overfull \hbox (15.00156pt too wide) in paragraph at lines 102--115
+\T2A/cmr/m/n/10 вклю-ча-ю-щее в се-бя и ин-стру-мен-ты для ана-ли-за Твит-те-ра
+; sleepingtime.org
+ []
+
+
+Overfull \hbox (28.52603pt too wide) in paragraph at lines 102--115
+\T2A/cmr/m/n/10 ^^V сайт ана-ли-зи-ру-ет вре-мя Ва-ше-го сна по твит-там. http:
+//www.tweetping.net/ 
  []
 
 
@@ -310,44 +519,47 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.118 \end{chap1}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-) [3] [4
-
-] [5
-
-] (./vatslav-diplom.aux (./chap1.aux)) ) 
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 6.
+ [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 8.
+ (./vatslav-diplom.aux (./chap1.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 8.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 8.
+Package rerunfilecheck Info: File `vatslav-diplom.out' has not changed.
+(rerunfilecheck)             Checksum: 7FAD76ECF556E0D1066B0A8D9B36A104;2823.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
+ ) 
 Here is how much of TeX's memory you used:
- 3783 strings out of 494518
- 47691 string characters out of 6173752
- 111950 words of memory out of 5000000
- 6910 multiletter control sequences out of 15000+600000
- 12734 words of font info for 29 fonts, out of 8000000 for 9000
+ 10496 strings out of 494518
+ 142962 string characters out of 6173752
+ 201034 words of memory out of 5000000
+ 13564 multiletter control sequences out of 15000+600000
+ 13044 words of font info for 30 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,10n,25p,1928b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
- </tmp/texfonts/pk/ljfour/lh/lh-t2a/lab
-x1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </tmp/texfonts/
-pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0600
-.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/lj
-four/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600p
-k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on vatslav-diplom.pdf (5 pages, 153585 bytes).
+ 36i,10n,34p,1928b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+st, replaced by a fixed one
+
+ </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </tmp/texfonts/pk/ljfour/lh
+/lh-t2a/labx1200.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt0800.600pk> </tm
+p/texfonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
+2a/larm0600.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/tex
+fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
+bx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on vatslav-diplom.pdf (6 pages, 137623 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 550 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
