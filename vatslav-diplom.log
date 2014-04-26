@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 13:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  26 APR 2014 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -246,7 +246,7 @@ Try typing  <return>  to proceed.
 LaTeX Warning: Unused global option(s):
     [article,14pt].
 
-(./vatslav-diplom.aux)
+(./vatslav-diplom.aux (./chap1.aux))
 \openout1 = `vatslav-diplom.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -543,22 +543,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 9.
  (./vatslav-diplom.aux (./chap1.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9.
-
-
-Package rerunfilecheck Warning: File `vatslav-diplom.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `vatslav-diplom.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  7FAD76ECF556E0D1066B0A8D9B36A104;2823.
+Package rerunfilecheck Info: File `vatslav-diplom.out' has not changed.
+(rerunfilecheck)             Checksum: 7FAD76ECF556E0D1066B0A8D9B36A104;2823.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9.
  ) 
 Here is how much of TeX's memory you used:
- 10484 strings out of 494518
- 142757 string characters out of 6173752
+ 10500 strings out of 494518
+ 143007 string characters out of 6173752
  201034 words of memory out of 5000000
- 13551 multiletter control sequences out of 15000+600000
+ 13565 multiletter control sequences out of 15000+600000
  13354 words of font info for 31 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  36i,10n,34p,1928b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -572,10 +565,10 @@ p/texfonts/pk/ljfour/lh/lh-t2a/latt0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
 fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
 rm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (7 pages, 144036 bytes).
+Output written on vatslav-diplom.pdf (7 pages, 144750 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
+ 578 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
  34 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
