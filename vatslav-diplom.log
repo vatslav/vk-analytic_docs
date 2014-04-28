@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  28 APR 2014 01:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.13)  28 APR 2014 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,6 +381,12 @@ REV \ T2A \ cyrd \ T2A \ cyrv \ T2A \ cyra \ T2A \
  []
 
 
+Overfull \hbox (38.52408pt too wide) in paragraph at lines 9--11
+[]\T2A/cmr/m/n/14.4 Целью дан-но-го ди-плом-но-го про-ек-та яв-ля-ет-ся со-зда-
+ние веб-приложения,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
@@ -442,13 +448,13 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 37.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 44.
 [3]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 50.
@@ -471,9 +477,6 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 61.
-
-Underfull \vbox (badness 3769) has occurred while \output is active []
-
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining russian shorthand "~
@@ -482,8 +485,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 66.
- [5]
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+ [5] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 Overfull \hbox (9.97832pt too wide) in paragraph at lines 72--73
@@ -946,25 +948,22 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 12.
 Here is how much of TeX's memory you used:
  11621 strings out of 494518
  159013 string characters out of 6173752
- 227200 words of memory out of 5000000
+ 228322 words of memory out of 5000000
  14611 multiletter control sequences out of 15000+600000
  13837 words of font info for 32 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 36i,10n,37p,1753b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced bu
-t does not exist, replaced by a fixed one
-
- </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx3583.600pk> </tmp/texfonts/pk/ljfour/lh
-/lh-t2a/latt1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </tm
-p/texfonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t
-2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/tex
-fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/la
-rm1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx2074.600pk></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on vatslav-diplom.pdf (22 pages, 212121 bytes).
+ 36i,8n,37p,1753b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx3583.600pk> </tmp/texfo
+nts/pk/ljfour/lh/lh-t2a/latt1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx
+1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </tmp/texfonts/p
+k/ljfour/lh/lh-t2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm0700.
+600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/texfonts/pk/ljf
+our/lh/lh-t2a/larm1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx2074.600pk
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on vatslav-diplom.pdf (22 pages, 214098 bytes).
 PDF statistics:
- 820 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
+ 828 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
  79 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
